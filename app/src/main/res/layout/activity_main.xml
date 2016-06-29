@@ -21,4 +21,11 @@
         android:text="stop service"
         android:id="@+id/btnStartStop"
         android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:text="stop service"
+        android:id="@+id/btnStartSto"
+        android:layout_height="wrap_content" />
+
+
 </LinearLayout>
